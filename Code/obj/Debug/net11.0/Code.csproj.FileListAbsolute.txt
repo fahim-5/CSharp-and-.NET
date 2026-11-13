@@ -1,0 +1,17 @@
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\bin\Debug\net11.0\Code.exe
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\bin\Debug\net11.0\Code.deps.json
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\bin\Debug\net11.0\Code.runtimeconfig.json
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\bin\Debug\net11.0\Code.runtimeconfig.dev.json
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\bin\Debug\net11.0\Code.dll
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\bin\Debug\net11.0\Code.pdb
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.AssemblyInfoInputs.cache
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.AssemblyInfo.cs
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.sourcelink.json
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.dll
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\refint\Code.dll
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.pdb
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.genruntimeconfig.cache
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\ref\Code.dll
+C:\Users\Fahim\OneDrive\Desktop\Learn_CSharp\Code\obj\Debug\net11.0\Code.csproj.Up2Date
